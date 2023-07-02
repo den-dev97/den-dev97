@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Den, I'm glad that you've visited my page.
 
 * 🎂 26 years old \(May 19, 1997\)
 * 📧 khausden@gmail.com 
