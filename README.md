@@ -2,7 +2,7 @@
 
 * 🎂 26 years old \(May 19, 1997\)
 * 📧 khausden@gmail.com 
-* 💼 [LinkedIn](https://t.me/dk_d3v)
+* ✈️ [telegram](https://t.me/dk_d3v)
 * 🏢 Open to relocation & occasional business trips
 
 ---
