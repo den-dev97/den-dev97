@@ -21,7 +21,7 @@
 * Frontend Pre Middle Game Developer at PlayDisplay, Moscow \(March 2022 - present\)
 * Frontend Junior + developer at Domotechnika, Vladivostok \(April 2021 - March 2022\)
 * Junior Full Stack Developer at DNS Shop, Moscow \(September 2020 - March 2021\)
-* HTML Developer at Primsocbank, Vladivostok \(September 2019 - September 2020\)
+* HTML Developer at PrimSotsBank, Vladivostok \(September 2019 - September 2020\)
 
 ---
 
