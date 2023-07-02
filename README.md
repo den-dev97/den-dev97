@@ -10,7 +10,7 @@
 ## 🔧 Skills
 
 * Languages: Russian \(native\), English \(B2\)
-* Technologies: Git, JavaScript, TypeScript, HTML5, Pug, CSS, Sass, SCSS, REST API, Vue.js, WebStorm, PhpStorm, VsCode, Nuxt, Quasar, Webpack, Vite, Vue Router, Vuex, Pinia, Axios, etc.
+* Technologies: Git, JS/TS, HTML5/Pug, CSS/Sass/SCSS, REST API, Vue/Nuxt/Quasar, WebStorm/PhpStorm/VsCode, Webpack/Vite, Vue Router, Vuex/Pinia, Axios, etc.
 * Experience with 1C-Bitrix, PHP, Yii2, PostgreSQL, Bootstrap
 * Expert in Adaptive & Cross-browser layout
 
