@@ -4,24 +4,16 @@
 * 📧 khausden@gmail.com 
 * ✈️ [telegram](https://t.me/dk_d3v)
 * 🏢 Open to relocation & occasional business trips
+* 💼 work experience since 2019
 
 ---
 
 ## 🔧 Skills
 
 * Languages: Russian \(native\), English \(B2\)
-* Technologies: Git, JS/TS, HTML5/Pug, CSS/Sass/SCSS, REST API, Vue/Nuxt/Quasar, WebStorm/PhpStorm/VsCode, Webpack/Vite, Vue Router, Vuex/Pinia, Axios/fetch, etc.
+* Technologies: Git, JS/TS, HTML5/Pug, CSS/Sass/SCSS, REST API, Vue/Nuxt/Quasar, Webpack/Vite, Vue Router, Vuex/Pinia, Axios/fetch, etc.
 * Experience with 1C-Bitrix, PHP, Yii2, PostgreSQL, Bootstrap
 * Expert in Adaptive & Cross-browser layout
-
----
-
-## 👨‍💼 Work Experience
-
-* Frontend Pre Middle Game Developer at PlayDisplay, Moscow \(March 2022 - present\)
-* Frontend Junior + developer at Domotechnika, Vladivostok \(April 2021 - March 2022\)
-* Junior Full Stack Developer at DNS Shop, Moscow \(September 2020 - March 2021\)
-* HTML Developer at PrimSotsBank, Vladivostok \(September 2019 - September 2020\)
 
 ---
 
