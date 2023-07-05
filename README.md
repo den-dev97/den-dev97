@@ -3,7 +3,7 @@
 * 🎂 26 years old \(May 19, 1997\)
 * 📧 khausden@gmail.com 
 * ✈️ [telegram](https://t.me/dk_d3v)
-* 💮 [Codewars profile]("https://www.codewars.com/users/dk-97")
+* 💮 [Codewars profile](https://www.codewars.com/users/dk-97)
 * 🏢 Open to relocation & occasional business trips
 * 💼 work experience since 2019
 
