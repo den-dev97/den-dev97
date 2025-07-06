@@ -1,31 +1,30 @@
-### Hi there 👋 My name is Den, I'm glad that you've visited my page.
+### Hi there! My name is Den, I'm glad that you've visited my page.
 
-* 🎂 26 years old \(May 19, 1997\)
-* 📧 khausden@gmail.com 
-* ✈️ [telegram](https://t.me/dk_d3v)
-* 💮 [Codewars profile](https://www.codewars.com/users/dk-97)
-* 🏢 Open to relocation & occasional business trips
-* 💼 work experience since 2019
+*  26 years old \(May 19, 1997\)
+*  khausden@gmail.com 
+*  [telegram](https://t.me/dk_d3v)
+*  [Codewars profile](https://www.codewars.com/users/dk-97)
+*  Open to relocation & occasional business trips
+*  work experience since 2019
 
 ---
 
-## 🔧 Skills
+##  Skills
 
 * Languages: Russian \(native\), English \(B2\)
 * Technologies: JS/TS, HTML5/Pug, SCSS, REST API, Vue/Nuxt/Quasar, Git & etc.
 * Experience with 1C-Bitrix, PHP, Yii2, PostgreSQL, Bootstrap
 * Expert in Adaptive & Cross-browser layout
-[![trophy]([https://github-profile-trophy.vercel.app/?username=ryo-ma](https://github-profile-trophy.vercel.app/?username=den-dev97&rank=S,AA,B,C&theme=onedark))]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=den-dev97&rank=S,AA,B,C&theme=onedark))
 
 ---
 
-## 🎓 Education
+##  Education
 
 * Bachelor's degree in Computer Software and Automated Systems, Siberian State University of Telecommunications and Informatics, Novosibirsk \(Graduated 2022\)
 
 ---
 
-## 🌍 About me
+##  About me
 
 * Passionate about clean code and intuitive UIs, I tackle tasks with great responsibility and ensure efficient and timely communication. 
 * I'm always eager to learn the latest industry trends and technologies. 
