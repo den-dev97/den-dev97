@@ -29,5 +29,5 @@
 * Passionate about clean code and intuitive UIs, I tackle tasks with great responsibility and ensure efficient and timely communication. 
 * I'm always eager to learn the latest industry trends and technologies. 
 * My preference is for remote work but can adapt to a suitable timezone for the team.
-* In my spare time, I enjoy sports and video games. 🏋️‍🎮
+* In my spare time, I enjoy sports and video games. 
 
