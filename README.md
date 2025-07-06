@@ -30,4 +30,3 @@
 * 🚀 Always eager to learn the latest industry trends and technologies.  
 * 🏡 Prefer remote work but can adapt to a suitable timezone for the team.  
 * 🏋️‍♂️ In my spare time, I enjoy sports and video games.  
-
