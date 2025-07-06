@@ -15,6 +15,7 @@
 * Technologies: JS/TS, HTML5/Pug, SCSS, REST API, Vue/Nuxt/Quasar, Git & etc.
 * Experience with 1C-Bitrix, PHP, Yii2, PostgreSQL, Bootstrap
 * Expert in Adaptive & Cross-browser layout
+[![trophy]([https://github-profile-trophy.vercel.app/?username=ryo-ma](https://github-profile-trophy.vercel.app/?username=den-dev97&rank=S,AA,B,C&theme=onedark))]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=den-dev97&rank=S,AA,B,C&theme=onedark))
 
 ---
 
