@@ -12,7 +12,7 @@
 ## 🛠️ Skills
 
 *  Languages: Russian (native), English (B2)  
-*  Technologies: JS/TS, HTML5/Pug, SCSS, REST API, Vue/Nuxt/Quasar, Git & etc.  
+*  Technologies: JS/TS, HTML5/Pug, СSS/SCSS, REST API, Vue/Nuxt/Quasar, Git & etc.  
 *  Experience with 1C-Bitrix, PHP, Yii2, PostgreSQL, Bootstrap  
 *  Expert in Adaptive & Cross-browser layout  
 
@@ -20,7 +20,8 @@
 
 ## 🎓 Education
 
-* Bachelor’s degree in Computer Software and Automated Systems, Siberian State University of Telecommunications and Informatics, Novosibirsk (Graduated 2022)  
+*  Bachelor’s degree in Computer Software and Automated Systems, Siberian State University of Telecommunications and Informatics, Novosibirsk (Graduated 2022)
+*  Secondary Vocational Diploma in Computer Programming (Technician-Programmer) (Graduated 2017)
 
 ---
 
